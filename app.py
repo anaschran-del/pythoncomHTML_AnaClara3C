@@ -10,5 +10,5 @@ def inicio():
     return render_template(
         'index.html'
         nome = nome,
-        curso =
+        curso = curso
     )
